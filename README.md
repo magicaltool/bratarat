@@ -44,7 +44,7 @@ Brata Rat is an android device controlling softare, whilst its Botnet supports i
 
 ###### Telegram chennel
 ```
-https://t.me/magicaltool
+https://t.me/magicaltool_org
 ```
 ###### Communication in Telegram
 ```
